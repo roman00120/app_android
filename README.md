@@ -10,6 +10,5 @@ Descarga la versión más reciente de la aplicación directamente desde la secci
 
 ## Novedades en v1.0.4
 
-- **Asociación Estricta 1 a 1 de Modelos 3D:** Eliminada toda asignación ambigua o difusa por coincidencia parcial. Cada producto abre única y exclusivamente su modelo `.glb` real asignado de forma explícita (`glbFile`).
-- **Ocultamiento de Botón 3D en Productos sin GLB Confirmado:** Los 342 productos que no cuentan con un archivo 3D real no muestran el botón "Ver Modelo 3D", evitando cruce o sustitución de modelos entre productos.
-- **Limpieza de Estado al Navegar:** Se garantiza que al salir y entrar a otro producto, el visor limpia el motor 3D y la memoria sin reutilizar URLs o modelos previos.
+- **Integración Completa de 50 Modelos 3D GLB Reales:** Todos los 47 productos con modelos 3D en `productos.json` cargan su archivo física y binariamente verificado (`models/ID.glb`) de forma estricta 1 a 1.
+- **Asociación Explícita por `productos.json`:** Eliminados fallbacks, búsquedas parciales y selecciones difusas. La visibilidad del botón "Ver Modelo 3D" depende exclusivamente de la existencia del archivo GLB.
