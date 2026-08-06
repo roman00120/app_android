@@ -6,4 +6,4 @@ Aplicación móvil nativa Android para consultar el catálogo de productos, fich
 
 Descarga la versión más reciente de la aplicación directamente desde la sección de **[Releases](https://github.com/roman00120/app_android/releases)**.
 
-- **Última versión**: [TotalGround-Catalogo-v1.0.2.apk](https://github.com/roman00120/app_android/releases/download/v1.0.2/TotalGround-Catalogo-v1.0.2.apk)
+- **Última versión**: [TotalGround-Catalogo-v1.0.3.apk](https://github.com/roman00120/app_android/releases/download/v1.0.3/TotalGround-Catalogo-v1.0.3.apk)
