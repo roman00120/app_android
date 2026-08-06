@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "key": "cat-2026",
+    "title": "Catálogo General de Productos Total Ground 2026",
+    "description": "Catálogo completo de soluciones integrales en Puesta a Tierra, Pararrayos, Supresores e IIoT.",
+    "download_url": "file:///android_asset/pdf/Catalogo-de-productos-Total-Ground.pdf",
+    "cover_url": "file:///android_asset/images/01-SPT.webp",
+    "category_key": "catalogos",
+    "category_name": "Catálogos Generales",
+    "commercial_category": "General",
+    "language": "es",
+    "file_type": "pdf",
+    "size_bytes": 7453662,
+    "size_formatted": "7.4 MB",
+    "tags": ["catalogo", "general", "2026"],
+    "updated_at": "2026-07-24"
+  },
+  {
+    "id": 2,
+    "key": "tg-tf-cat-2026",
+    "title": "Ficha Técnica y Manual de Selección Tierras Físicas",
+    "description": "Especificaciones técnicas y tabla de selección para electrodos magne-electrolíticos y compuestos acondicionadores.",
+    "download_url": "file:///android_asset/pdf/TG-TF-CAT-2026_.pdf",
+    "cover_url": "file:///android_asset/images/02-Pararrayos.webp",
+    "category_key": "tierras-fisicas",
+    "category_name": "Tierras Físicas",
+    "commercial_category": "Fichas Técnicas",
+    "language": "es",
+    "file_type": "pdf",
+    "size_bytes": 30219902,
+    "size_formatted": "30.2 MB",
+    "tags": ["tierras-fisicas", "fichas-tecnicas", "manual"],
+    "updated_at": "2026-07-24"
+  }
+]

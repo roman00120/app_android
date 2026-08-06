@@ -1,0 +1,65 @@
+[
+  {
+    "key": "tierras-fisicas",
+    "labels": { "es": "Tierras Físicas", "en": "Grounding Systems", "fr": "Systèmes de mise à la terre", "de": "Erdungssysteme", "zh": "接地系统", "ja": "接地システム", "pt": "Sistemas de Aterramento" },
+    "children": [
+      { "key": "tierras-kits", "labels": { "es": "Kits", "en": "Kits", "fr": "Kits", "de": "Kits", "zh": "套件", "ja": "キット", "pt": "Kits" } },
+      { "key": "tierras-electrodos", "labels": { "es": "Electrodos", "en": "Electrodes", "fr": "Électrodes", "de": "Elektroden", "zh": "电极", "ja": "電極", "pt": "Eletrodos" } },
+      { "key": "tierras-compuestos", "labels": { "es": "Compuestos acondicionadores", "en": "Ground conditioning compounds", "fr": "Composés d'amélioration du sol", "de": "Bodenverbesserungsmittel", "zh": "接地降阻材料", "ja": "接地改良材", "pt": "Compostos condicionadores" } },
+      { "key": "tierras-conectores", "labels": { "es": "Conectores", "en": "Connectors", "fr": "Connecteurs", "de": "Verbinder", "zh": "连接器", "ja": "コネクタ", "pt": "Conectores" } },
+      { "key": "tierras-soldadura", "labels": { "es": "Soldadura exotérmica", "en": "Exothermic welding", "fr": "Soudure exothermique", "de": "Exothermisches Schweißen", "zh": "放热焊接", "ja": "発熱溶接", "pt": "Soldagem exotérmica" } },
+      { "key": "tierras-barras", "labels": { "es": "Barras de unión", "en": "Grounding bars", "fr": "Barres de liaison", "de": "Erdungsschienen", "zh": "接地汇流排", "ja": "接地バー", "pt": "Barras de união" } },
+      { "key": "tierras-registros", "labels": { "es": "Registros", "en": "Inspection pits", "fr": "Regards de visite", "de": "Inspektionsschächte", "zh": "检查井", "ja": "点検ボックス", "pt": "Caixas de inspeção" } },
+      { "key": "tierras-terrometro", "labels": { "es": "Terrómetro", "en": "Earth tester", "fr": "Telluromètre", "de": "Erdungsmessgerät", "zh": "接地电阻测试仪", "ja": "接地抵抗計", "pt": "Terrômetro" } }
+    ]
+  },
+  {
+    "key": "pararrayos",
+    "labels": { "es": "Pararrayos", "en": "Lightning Protection", "fr": "Protection contre la foudre", "de": "Blitzschutz", "zh": "防雷系统", "ja": "避雷システム", "pt": "Para-raios" },
+    "children": [
+      { "key": "pararrayos-kits", "labels": { "es": "Kits", "en": "Kits", "fr": "Kits", "de": "Kits", "zh": "套件", "ja": "キット", "pt": "Kits" } },
+      { "key": "pararrayos-puntas", "labels": { "es": "Puntas", "en": "Air terminals", "fr": "Pointes captrices", "de": "Fangspitzen", "zh": "接闪器", "ja": "受雷部", "pt": "Ponteiras" } },
+      { "key": "pararrayos-mastiles", "labels": { "es": "Mástiles", "en": "Masts", "fr": "Mâts", "de": "Masten", "zh": "避雷桅杆", "ja": "マスト", "pt": "Mastros" } },
+      { "key": "pararrayos-accesorios", "labels": { "es": "Accesorios", "en": "Accessories", "fr": "Accessoires", "de": "Zubehör", "zh": "配件", "ja": "アクセサリ", "pt": "Acessórios" } },
+      { "key": "pararrayos-contadores", "labels": { "es": "Contadores", "en": "Lightning counters", "fr": "Compteurs de foudre", "de": "Blitzzähler", "zh": "雷击计数器", "ja": "雷撃カウンタ", "pt": "Contadores de descargas" } }
+    ]
+  },
+  {
+    "key": "supresores-transientes",
+    "labels": { "es": "Supresores de Transientes", "en": "Surge Protection", "fr": "Protection contre les surtensions", "de": "Überspannungsschutz", "zh": "浪涌保护", "ja": "サージ保護", "pt": "Supressores de Transientes" },
+    "children": [
+      { "key": "supresores-clase-c", "labels": { "es": "Clase C", "en": "Class C", "fr": "Classe C", "de": "Klasse C", "zh": "C 级", "ja": "クラス C", "pt": "Classe C" } },
+      { "key": "supresores-clase-b", "labels": { "es": "Clase B", "en": "Class B", "fr": "Classe B", "de": "Klasse B", "zh": "B 级", "ja": "クラス B", "pt": "Classe B" } },
+      { "key": "supresores-clase-a", "labels": { "es": "Clase A", "en": "Class A", "fr": "Classe A", "de": "Klasse A", "zh": "A 级", "ja": "クラス A", "pt": "Classe A" } },
+      { "key": "supresores-din-rail", "labels": { "es": "DIN rail", "en": "DIN rail", "fr": "Rail DIN", "de": "DIN-Schiene", "zh": "DIN 导轨", "ja": "DIN レール", "pt": "Trilho DIN" } },
+      { "key": "supresores-telcos", "labels": { "es": "Telcos", "en": "Telecommunications", "fr": "Télécommunications", "de": "Telekommunikation", "zh": "通信保护", "ja": "通信保護", "pt": "Telecomunicações" } }
+    ]
+  },
+  {
+    "key": "bancos-capacitores",
+    "labels": { "es": "Bancos de Capacitores", "en": "Capacitor Banks", "fr": "Bancs de condensateurs", "de": "Kondensatorbänke", "zh": "电容器组", "ja": "コンデンサバンク", "pt": "Bancos de Capacitores" },
+    "children": [
+      { "key": "bancos-capacitores-productos", "labels": { "es": "Capacitores", "en": "Capacitors", "fr": "Condensateurs", "de": "Kondensatoren", "zh": "电容器", "ja": "コンデンサ", "pt": "Capacitores" } },
+      { "key": "bancos-fijos", "labels": { "es": "Bancos fijos", "en": "Fixed banks", "fr": "Bancs fixes", "de": "Feste Bänke", "zh": "固定电容器组", "ja": "固定バンク", "pt": "Bancos fixos" } },
+      { "key": "bancos-automaticos", "labels": { "es": "Bancos automáticos", "en": "Automatic banks", "fr": "Bancs automatiques", "de": "Automatische Bänke", "zh": "自動バンク", "pt": "Bancos automáticos" } }
+    ]
+  },
+  {
+    "key": "telemetria-monitoreo",
+    "labels": { "es": "Telemetría y Monitoreo", "en": "Telemetry and Monitoring", "fr": "Télémétrie et surveillance", "de": "Telemetrie und Überwachung", "zh": "遥测与监控", "ja": "テレメトリと監視", "pt": "Telemetria e Monitoramento" },
+    "children": [
+      { "key": "telemetria-total-view", "labels": { "es": "Total View", "en": "Total View", "fr": "Total View", "de": "Total View", "zh": "Total View", "ja": "Total View", "pt": "Total View" } },
+      { "key": "telemetria-smart-view", "labels": { "es": "Smart View", "en": "Smart View", "fr": "Smart View", "de": "Smart View", "zh": "Smart View", "ja": "Smart View", "pt": "Smart View" } },
+      { "key": "telemetria-terrometro", "labels": { "es": "Terrómetro", "en": "Earth tester", "fr": "Telluromètre", "de": "Erdungsmessgerät", "zh": "接地电阻测试仪", "ja": "接地抵抗計", "pt": "Terrômetro" } },
+      { "key": "telemetria-contador-descargas", "labels": { "es": "Contador de descargas", "en": "Lightning counter", "fr": "Compteur de foudre", "de": "Blitzzähler", "zh": "雷击计数器", "ja": "雷撃カウンタ", "pt": "Contador de descargas" } },
+      { "key": "telemetria-nes", "labels": { "es": "NES", "en": "NES", "fr": "NES", "de": "NES", "zh": "NES", "ja": "NES", "pt": "NES" } },
+      { "key": "telemetria-checktor", "labels": { "es": "Checktor", "en": "Checktor", "fr": "Checktor", "de": "Checktor", "zh": "Checktor", "ja": "Checktor", "pt": "Checktor" } },
+      { "key": "telemetria-total-monitor", "labels": { "es": "Total Monitor", "en": "Total Monitor", "fr": "Total Monitor", "de": "Total Monitor", "zh": "Total Monitor", "ja": "Total Monitor", "pt": "Total Monitor" } },
+      { "key": "telemetria-tgone", "labels": { "es": "TGONE", "en": "TGONE", "fr": "TGONE", "de": "TGONE", "zh": "TGONE", "ja": "TGONE", "pt": "TGONE" } }
+    ]
+  },
+  {
+    "key": "torres-arriostradas",
+    "labels": { "es": "Torres Arriostradas", "en": "Guyed Towers", "fr": "Tours haubanées", "de": "Abgespannte Türme", "zh": "拉线塔", "ja": "支線式タワー", "pt": "Torres Estaiadas" }
+  }
+]
